@@ -20,8 +20,9 @@
 ```yaml
 dependencies:
   oops:
-    git: https://github.com/Dartly/dart_oops.git
-    ref: main
+    git: 
+      url: https://github.com/Dartly/dart_oops.git
+      ref: main
 ```
 
 然后运行：
