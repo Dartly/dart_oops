@@ -1,8 +1,4 @@
-import 'package:flutter/material.dart';
 
-/// Oops库的README文档
-/// 
-/// 提供库的使用说明、示例和API文档
 
 # Oops
 
